@@ -1,6 +1,8 @@
 
 
 import './App.css'
+import Banner from './Components/Banner/Banner'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
 
@@ -8,10 +10,9 @@ function App() {
   return (
     <>
     
-    <h1 className="text-3xl font-bold underline text-red-700 text-primary">
-      Hello world!
-    </h1>
-      
+   
+    <Navbar ></Navbar>
+    <Banner></Banner>
       
     </>
   )
