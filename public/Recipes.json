@@ -1,0 +1,101 @@
+[
+      {
+        "recipe_image": "https://i.ibb.co/RCPQyvP/card-1.png",
+        "recipe_id": "001",
+        "recipe_name": "Garlic Butter Shrimp Pasta",
+        "short_description": "Delicious pasta dish with succulent shrimp and flavorful garlic butter sauce.",
+        "ingredients": [
+          "300g linguine pasta",
+          "250g shrimp, peeled and deveined",
+          "4 cloves garlic, minced",
+          "1/4 cup butter",
+          "1/4 cup fresh parsley, chopped",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": "25 min",
+        "calories": "380 calories"
+      },
+      {
+        "recipe_image": "https://i.ibb.co/X5DX4Vz/card-2.png",
+        "recipe_id": "002",
+        "recipe_name": "Caprese Salad",
+        "short_description": "A refreshing salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil leaves.",
+        "ingredients": [
+          "4 large tomatoes, sliced",
+          "200g fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves",
+          "2 tablespoons balsamic vinegar",
+          "2 tablespoons extra virgin olive oil",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": "15 min",
+        "calories": "220 calories"
+      },
+      {
+        "recipe_image": "https://i.ibb.co/NZ1GF1F/card-3.jpg",
+        "recipe_id": "003",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "Colorful medley of vegetables stir-fried to perfection in a savory sauce.",
+        "ingredients": [
+          "1 bell pepper, sliced",
+          "1 carrot, julienned",
+          "1 cup broccoli florets",
+          "1 cup snow peas",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "180 calories"
+      },
+      {
+        "recipe_image": "https://i.ibb.co/G9dGx3F/card-4.jpg",
+        "recipe_id": "004",
+        "recipe_name": "BBQ Chicken Pizza",
+        "short_description": "Classic pizza topped with tender chicken, tangy BBQ sauce, and melted cheese.",
+        "ingredients": [
+          "1 pre-made pizza crust",
+          "1 cup cooked chicken, shredded",
+          "1/2 cup BBQ sauce",
+          "1/2 cup red onion, thinly sliced",
+          "1 cup shredded mozzarella cheese",
+          "1/4 cup fresh cilantro, chopped"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_image": "https://i.ibb.co/rvtVxj7/card-5.jpg",
+        "recipe_id": "005",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy and comforting risotto loaded with flavorful mushrooms.",
+        "ingredients": [
+          "1 cup Arborio rice",
+          "200g mushrooms, sliced",
+          "4 cups vegetable broth",
+          "1/2 cup dry white wine",
+          "1/4 cup grated Parmesan cheese",
+          "2 tablespoons olive oil"
+        ],
+        "preparing_time": "40 min",
+        "calories": "290 calories"
+      },
+      {
+        "recipe_image": "https://i.ibb.co/QdYVCcj/card-6.jpg",
+        "recipe_id": "006",
+        "recipe_name": "Greek Salad",
+        "short_description": "A light and refreshing salad with crisp vegetables and tangy feta cheese.",
+        "ingredients": [
+          "2 cucumbers, diced",
+          "3 tomatoes, diced",
+          "1 red onion, thinly sliced",
+          "1/2 cup Kalamata olives",
+          "200g feta cheese, crumbled",
+          "2 tablespoons olive oil",
+          "1 tablespoon red wine vinegar"
+        ],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+      }
+    ]
+
+  

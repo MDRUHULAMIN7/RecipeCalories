@@ -1,6 +1,6 @@
-import pic2 from '../Navbar/image/Rectangle 1.png'
 
-import './t.css'
+
+
 const Banner = () => {
     return (
         
@@ -10,7 +10,7 @@ const Banner = () => {
         <p className='text-white font-semibold mt-2'>The potash finds a ready sale among the Yorubas, being largely used for cooking purposes.</p></div>
         <div className='mx-auto flex justify-center gap-5 my-5'>
         <button className="btn btn-success rounded-full">Explore Now</button>
-            <button className="btn btn-outline rounded-full">Our Feedback</button>
+            <button className="btn btn-outline rounded-full text-white ">Our Feedback</button>
         </div>
             </div>
           
